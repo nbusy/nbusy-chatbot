@@ -32,8 +32,10 @@ See the [release notes](https://github.com/NBusy/NBusy.ChatBot/blob/master/Relea
 	
 ## LICENSE
 [GNU LGPL](https://github.com/NBusy/NBusy.ChatBot/blob/master/License.md)
-Note that A.L.I.C.E. AIML sets (*.aiml files) included in this project are licensed separately under GNU GPL.
+
+Note: A.L.I.C.E. AIML sets (*.aiml files) included in this project are licensed separately under GNU GPL.
 
 ## Acknowledgements
-[A.L.I.C.E. AIML](http://www.alicebot.org/aiml.html) sets included in this project are licensed under the GNU GPL and are based on the original work by Dr. Richard S. Wallace.
+[A.L.I.C.E. AIML](http://www.alicebot.org/aiml.html) sets included in this project are licensed under the GNU GPL and are based on the original work by [Dr. Richard S. Wallace](http://www.alicebot.org/bios/richardwallace.html).
+
 C# implementation of AIML interpreter, the AIMLbot, is based on the original work by [Nicholas H.Tollervey](http://ntoll.org/) and is licensed under GNU LGPL.
